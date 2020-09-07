@@ -1,2 +1,2 @@
 I have merged few optimization tricks from geeksforgeeks(I couldn't find the blog link while creating this repository) and few other programmers that I know(I am not sure the optimization tricks are their own). So the final code ended up like this. And this is the most optimized version I've known so far. If you can optimize it more feel free to contribute.
-Right now the complexity of the code is O(N). This doesn't even need 2N iterations.
+Right now the complexity of the code is O(N). This doesn't even need 2N iterations. Mind that this is written in C++. You can contribute it in C or Python or Java.
