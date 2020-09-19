@@ -1,6 +1,6 @@
 #include<bits/stdc++.h> 
 using namespace std;
-#define MAXP                10000007 // range till which you want to find all the prime numbers
+#define MAXP                10000007 // range up till which you want to find all the prime numbers
 vector <int> prime; //In this vector all the primes are saved
 bitset<MAXP> mark; //nonprime indexes are true, prime indexes are false here
 
